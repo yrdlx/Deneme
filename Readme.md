@@ -1,3 +1,3 @@
 Üst Bilgi
 Alt bilgi
-Link:
+Link: http:www.google.com
